@@ -1,0 +1,6 @@
+mutation mutationCreateArtist($id: ID!, $name: String!) {
+    createArtist(id: $id, name: $name) {
+        id
+        name
+    }
+}

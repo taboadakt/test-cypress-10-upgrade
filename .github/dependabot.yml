@@ -1,0 +1,27 @@
+version: 2
+updates:
+
+  - package-ecosystem: "npm"
+    directory: "/"
+    schedule:
+      interval: "daily"
+
+    # Uncomment below to assigne peeopl
+    # assignees:
+    #   - "bsoto"
+
+    commit-message:
+      prefix: "npm"
+      include: "scope"
+
+    # This will be needed for private repos
+    # registries:
+    #   npm-npmjs:
+    #     type: npm-registry
+    #     url: https://npm.odeko.com/
+    #     username: octocat
+    #     password: ${{secrets.MY_NPM_PASSWORD}}
+
+    # Uncomment below to auto-set reviewers
+    # reviewers:
+    #   - "bsoto"

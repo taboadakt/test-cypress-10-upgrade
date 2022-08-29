@@ -1,0 +1,99 @@
+@font-face {
+  font-family: GreycliffCF;
+  src: url('./fonts/GreycliffCF/GreycliffCF-Thin.otf');
+  font-weight: 100;
+}
+
+@font-face {
+  font-family: GreycliffCF;
+  src: url('./fonts/GreycliffCF/GreycliffCF-ExtraLight.otf');
+  font-weight: 200;
+}
+
+@font-face {
+  font-family: GreycliffCF;
+  src: url('./fonts/GreycliffCF/GreycliffCF-Light.otf');
+  font-weight: 300;
+}
+
+@font-face {
+  font-family: GreycliffCF;
+  src: url('./fonts/GreycliffCF/GreycliffCF-Regular.otf');
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: GreycliffCF;
+  src: url('./fonts/GreycliffCF/GreycliffCF-Medium.otf');
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: GreycliffCF;
+  src: url('./fonts/GreycliffCF/GreycliffCF-DemiBold.otf');
+  font-weight: 600;
+}
+
+@font-face {
+  font-family: GreycliffCF;
+  src: url('./fonts/GreycliffCF/GreycliffCF-Bold.otf');
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: GreycliffCF;
+  src: url('./fonts/GreycliffCF/GreycliffCF-ExtraBold.otf');
+  font-weight: 800;
+}
+
+@font-face {
+  font-family: GreycliffCF;
+  src: url('./fonts/GreycliffCF/GreycliffCF-Heavy.otf');
+  font-weight: 900;
+}
+
+/* Exact font-family names for the Doppio */
+@font-face {
+  font-family: GreycliffCF-Thin;
+  src: url('./fonts/GreycliffCF/GreycliffCF-Thin.otf');
+}
+
+@font-face {
+  font-family: GreycliffCF-ExtraLight;
+  src: url('./fonts/GreycliffCF/GreycliffCF-ExtraLight.otf');
+}
+
+@font-face {
+  font-family: GreycliffCF-Light;
+  src: url('./fonts/GreycliffCF/GreycliffCF-Light.otf');
+}
+
+@font-face {
+  font-family: GreycliffCF-Regular;
+  src: url('./fonts/GreycliffCF/GreycliffCF-Regular.otf');
+}
+
+@font-face {
+  font-family: GreycliffCF-Medium;
+  src: url('./fonts/GreycliffCF/GreycliffCF-Medium.otf');
+}
+
+@font-face {
+  font-family: GreycliffCF-DemiBold;
+  src: url('./fonts/GreycliffCF/GreycliffCF-DemiBold.otf');
+}
+
+@font-face {
+  font-family: GreycliffCF-Bold;
+  src: url('./fonts/GreycliffCF/GreycliffCF-Bold.otf');
+}
+
+@font-face {
+  font-family: GreycliffCF-ExtraBold;
+  src: url('./fonts/GreycliffCF/GreycliffCF-ExtraBold.otf');
+}
+
+@font-face {
+  font-family: GreycliffCF-Heavy;
+  src: url('./fonts/GreycliffCF/GreycliffCF-Heavy.otf');
+}
